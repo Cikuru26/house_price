@@ -2,7 +2,7 @@ House Price Predictor
 
 A small web app that estimates the market price of a house in Rwanda (in million Rwandan francs, RWF) from a few simple characteristics. It was built for the Machine Learning module (ETT Y4 BTech, Kigali College, Rwanda Polytechnic).
 
-Live app: LIVE_APP_LINK_HERE
+Live app: https://houseprice-qmgn4d9eajhepfkzdxv4jj.streamlit.app/
 
 Project purpose
 
